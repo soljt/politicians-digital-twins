@@ -1,0 +1,15 @@
+This paper focuses on the urgent need for an innovation accelerator within the context of contemporary science and technology. The authors argue that the existing scientific publication and evaluation systems are antiquated and fail to leverage the potential of the information age. There is a necessity to modernize these systems to enhance scientific progress and societal benefits.
+
+The current scientific organization, particularly in social and economic sciences, struggles to address rapid global changes, leading to policy failures due to insufficient knowledge dissemination and creation. Historical paradigms are questioned, especially in light of recent economic crises that underscore the risk of reactive rather than proactive science.
+
+A multi-disciplinary approach is advocated, integrating diverse research methods and expertise to close knowledge gaps. This approach will facilitate the establishment of new institutional frameworks that foster collaboration and knowledge sharing.
+
+The paper critiques the traditional peer review process, highlighting its inefficiencies and biases. The slow nature of publication, coupled with the narrow selection criteria, often leads to valuable research being overlooked. Current practices create an artificial scarcity of publication opportunities, thus hampering innovation. A transformation towards a more open access model is proposed, one that encourages a broader array of contributions including interdisciplinary and heterodox studies that challenge mainstream paradigms.
+
+The authors also introduce the notion of "Science 2.0," a framework for the future of scientific publishing that would involve a decentralized archive system combined with community-driven peer review. This model emphasizes the need for rapid dissemination and discussion of scientific ideas to facilitate collaborative knowledge advancement.
+
+Key features of the proposed innovation accelerator include information filtering technologies, a reputation system for both contributors and reviewers, and mechanisms to encourage active participation from the scientific community. These tools would streamline the research process, allowing scientists to dedicate more time to innovative endeavors rather than administrative tasks.
+
+The paper stresses the importance of creating an efficient communication system among researchers, fostering an environment that nurtures scientific creativity and output. It also calls for a re-evaluation of success metrics used in academia, moving beyond traditional citation indices to incorporate measures that reflect the broader impact of research.
+
+In summary, to cultivate a knowledge-based economy, systemic reforms are needed in academic institutions, focusing on collaborative research practices, innovative publication methods, and a realistic assessment of scientific contributions. The proposed changes aim to bridge the gap between science and societal needs, ensuring that valuable insights and innovations reach their full potential in addressing global challenges.

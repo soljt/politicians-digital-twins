@@ -1,0 +1,15 @@
+The study of bankruptcy cascades in interbank markets reveals critical insights into the dynamics of interconnected financial systems. Using an agent-based model, we explore a three-sector economy that includes goods, credit, and interbank markets, which allows us to analyze the correlation between business cycles and cascading bankruptcies.
+
+One pivotal finding is that the interbank market, while facilitating risk sharing among banks, also introduces systemic risks due to the high levels of connectivity among financial institutions. Although sharing risks can mitigate individual bank failures under normal conditions, too much connectivity can lead to widespread financial contagion during crises.
+
+The phenomenon of financialization has transformed the role of banks in advanced economies, shifting from traditional loan-based financing to more speculative activities. This shift has heightened the interdependence among financial agents, making the economic system more vulnerable to joint failures, especially during downturns.
+
+Our analysis identifies three primary mechanisms that propagate systemic failures: bank runs, asset price contagion, and interlocking exposures. We highlight the trade-off between increasing connectivity in credit networks, which can initially reduce bankruptcy risk, and the potential rise in systemic risk as connectivity reaches critical levels. This complexity is underscored by the need for banks to maintain enough liquidity while managing risk exposure, emphasizing that higher connectivity often correlates with increased financial fragility.
+
+Importantly, our simulations demonstrate that larger bankruptcy cascades can result from high interbank connectivity, even when the overall demand for loans remains stable. This illustrates how individual bank failures can trigger broader economic repercussions through elevated interest rates and cascading defaults among firms.
+
+The model underscores that systemic risk management should consider the heterogeneity of financial institutions. Bank size and balance sheet conditions play significant roles in how contagion effects unfold, suggesting that policies for regulating interbank lending must account for these variances in bank characteristics.
+
+Furthermore, our findings align with historical patterns observed during financial crises, particularly the 2008 meltdown. We conclude that while risk-sharing among banks can provide stability, it is imperative to recognize the potential for contagion brought on by highly interconnected networks. 
+
+Future research should expand on these findings by incorporating endogenous pricing mechanisms and evolving network structures to better understand demand-side dynamics and the complexities of financial contagion. Ultimately, our study advocates for a more nuanced approach to banking regulation and systemic risk assessment that prioritizes the stability of financial networks while recognizing their inherent vulnerabilities.
